@@ -1,10 +1,10 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+        "location"
     ],
     "companyName": "Pebble",
-    "longName": "Tutorial-3",
+    "longName": "Tutorial 3",
     "projectType": "native",
     "resources": {
         "media": [
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "shortName": "Tutorial-3",
+    "shortName": "Tutorial 3",
     "uuid": "038bb8f7-d0b9-4ad2-aa6f-015fb57b1c62",
     "versionCode": 1,
     "versionLabel": "1.0",
