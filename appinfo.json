@@ -1,5 +1,8 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
         "location"
     ],
@@ -26,6 +29,7 @@
             }
         ]
     },
+    "sdkVersion": "2",
     "shortName": "Tutorial 3",
     "uuid": "038bb8f7-d0b9-4ad2-aa6f-015fb57b1c62",
     "versionCode": 1,
